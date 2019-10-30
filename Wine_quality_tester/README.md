@@ -30,6 +30,6 @@ You should be able to view the homepage as below :
 
 Enter valid numerical values in all  input boxes and hit Predict.
 
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
+If everything goes well, you should  be able to see the predcited qualityvalue on the HTML page!
 ![IMAGE2](https://github.com/Gulshan-gaur/ML_App/blob/master/Wine_quality_tester/static/Screenshot%20from%202019-10-30%2018-09-24.png)
 
