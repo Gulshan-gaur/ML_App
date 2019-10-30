@@ -1,5 +1,5 @@
 ## ML-Model-Flask-Deployment
-This is a Wine Quality Checker to elaborate deployed on production using Flask API
+This is a Wine Quality Checker deployed on production using Flask API
 
 ### Prerequisites
 You must have installed joblib(for loading model), Flask (for API) installed.
@@ -19,17 +19,17 @@ This would create a serialized version of our model into a file model.pkl
 
 2. Run app.py using below command to start Flask API
 ```
-python app.py
+python new.py
 ```
 Our flask will run on port 5555.
 
 3. Navigate to URL http://localhost:5555
 
 You should be able to view the homepage as below :
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![IMAGE1](https://github.com/Gulshan-gaur/ML_App/blob/master/Wine_quality_tester/static/Screenshot%20from%202019-10-30%2018-08-51.png)
 
 Enter valid numerical values in all  input boxes and hit Predict.
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Result.png)
+![IMAGE2](https://github.com/Gulshan-gaur/ML_App/blob/master/Wine_quality_tester/static/Screenshot%20from%202019-10-30%2018-09-24.png)
 
